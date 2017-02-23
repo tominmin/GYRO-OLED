@@ -2,6 +2,7 @@
 OLED race game with gyro sensor(GY-80) by arduino nano.  
 In schematic picture,using atmega328,but same wiring make it possible to play this game by arduino nano.  
 <img src="picture/simple_hard.jpg" width=120px>
+
 OLED: https://www.sparkfun.com/products/13003  
 The value of the gyro sensor is corrected by the Kalman filter.
  
